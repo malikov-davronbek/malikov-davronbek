@@ -7,7 +7,7 @@ I enjoy working on projects involving **tabular data, computer vision, and predi
 - 🔭 I’m currently working on **Soccer Analytics & Player Salary Prediction**  
 - 🌱 Learning advanced deep learning techniques for tabular & CV data  
 - 💬 Ask me about Python, PyTorch, TensorFlow, ML pipelines, and feature engineering  
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)  
+- 📫 How to reach me: [email@example.com](mailto:davronbekmalik@gmail.com)  
 - ⚡ Fun fact: I love applying ML in sports analytics ⚽  
 
 ---
