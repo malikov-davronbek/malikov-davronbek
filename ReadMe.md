@@ -1,6 +1,6 @@
 # Hi, I'm Davronbek Malikov 👋
 
-**LLM & RAG Engineer · Agentic AI Engineer · ML & Deep Learning Engineer · Computer Vision · PhD**
+**ML / LLM & RAG Engineer | Ph.D.**
 📍 Seoul, South Korea
 
 > 👉 **My main GitHub profile is [@davronbek-malikov](https://github.com/davronbek-malikov)**: most of my projects, publications and my full CV are there.
